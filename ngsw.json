@@ -1,0 +1,107 @@
+{
+  "configVersion": 1,
+  "timestamp": 1638825897276,
+  "index": "https://EduardoAlfredoGallegos.github.io/Learning-Together/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/192.ff3e272053712e7a.js",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/favicon.ico",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/firebase-messaging-sw.js",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/index.html",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/main.57997313d4d6ccef.js",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/manifest.webmanifest",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/polyfills.bbae2c26cf57ddf8.js",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/runtime.2c715310e563adde.js",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/styles.7abfaaa78c5ad94e.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/answers/correct.png",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/answers/incorrect.png",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icon-128x128.png",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icon-144x144.png",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icon-152x152.png",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icon-192x192.png",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icon-384x384.png",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icon-512x512.png",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icon-72x72.png",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icon-96x96.png",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icons/icon-128x128.png",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icons/icon-144x144.png",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icons/icon-152x152.png",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icons/icon-192x192.png",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icons/icon-384x384.png",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icons/icon-512x512.png",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icons/icon-72x72.png",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icons/icon-96x96.png",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/loading/loading-11.gif"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/192.ff3e272053712e7a.js": "1861037400f47f1d9546e81b7d3cd808d3a39a53",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/answers/correct.png": "3d89d148a87f9637bfb6d39f98bda2704a13732f",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/answers/incorrect.png": "44f1520e4dc3ff50a5a64ba749a992f3a558a38a",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icon-128x128.png": "618f63eb976fbdccc6a0cca3d5408cf462a2f560",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icon-144x144.png": "dd30cfeb4e6456eafbd1fc2392945c63219f70e7",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icon-152x152.png": "b23ecd39cf2ded47a4185bfee76ba14677407638",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icon-192x192.png": "5e4e4869b25ae1dd5427e2c1217bb7e3778ff8d0",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icon-384x384.png": "d73acca56b522739517c95c65dbf8926ff7c64a6",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icon-512x512.png": "7ff9268e916050ec2dfaa526d6b942a66cd9600c",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icon-72x72.png": "8f683f991e1a93bee5b0fd4e7bbc73351c5fdf67",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icon-96x96.png": "39aa8c0d6ac6e58fa2ea92e84d6a96fc203da41e",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icons/icon-128x128.png": "618f63eb976fbdccc6a0cca3d5408cf462a2f560",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icons/icon-144x144.png": "dd30cfeb4e6456eafbd1fc2392945c63219f70e7",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icons/icon-152x152.png": "b23ecd39cf2ded47a4185bfee76ba14677407638",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icons/icon-192x192.png": "5e4e4869b25ae1dd5427e2c1217bb7e3778ff8d0",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icons/icon-384x384.png": "d73acca56b522739517c95c65dbf8926ff7c64a6",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icons/icon-512x512.png": "7ff9268e916050ec2dfaa526d6b942a66cd9600c",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icons/icon-72x72.png": "8f683f991e1a93bee5b0fd4e7bbc73351c5fdf67",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icons/icon-96x96.png": "39aa8c0d6ac6e58fa2ea92e84d6a96fc203da41e",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/loading/loading-11.gif": "26f4715a8b4fdff6e46d13ec12b1022ad257ea3e",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/firebase-messaging-sw.js": "cd69eaf2ac8e177e862ad835885aac055a096be3",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/index.html": "db911ef87c1fe19ea79f97f6bcfe3a308899a582",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/main.57997313d4d6ccef.js": "8e6dea7e7459e984fb23f04c0d0d1345a8d0c232",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/manifest.webmanifest": "b3a814d4ab6d4bd0e203adb9d5e070f1c4a0321c",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/polyfills.bbae2c26cf57ddf8.js": "fce8efea7ce84938ed29a1dce5a05a394162b8fe",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/runtime.2c715310e563adde.js": "eb72a82031dc21076a4e7a881f1a899c9f8c1df5",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/styles.7abfaaa78c5ad94e.css": "b54d33ea0bcefca97876e2c9e02d621e4c87baeb"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
