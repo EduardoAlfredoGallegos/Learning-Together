@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1638827918236,
+  "timestamp": 1638828372895,
   "index": "https://EduardoAlfredoGallegos.github.io/Learning-Together/index.html",
   "assetGroups": [
     {
@@ -15,7 +15,7 @@
         "https://EduardoAlfredoGallegos.github.io/Learning-Together/favicon.ico",
         "https://EduardoAlfredoGallegos.github.io/Learning-Together/firebase-messaging-sw.js",
         "https://EduardoAlfredoGallegos.github.io/Learning-Together/index.html",
-        "https://EduardoAlfredoGallegos.github.io/Learning-Together/main.57997313d4d6ccef.js",
+        "https://EduardoAlfredoGallegos.github.io/Learning-Together/main.7a411e0f1ab865c2.js",
         "https://EduardoAlfredoGallegos.github.io/Learning-Together/manifest.webmanifest",
         "https://EduardoAlfredoGallegos.github.io/Learning-Together/polyfills.bbae2c26cf57ddf8.js",
         "https://EduardoAlfredoGallegos.github.io/Learning-Together/runtime.2c715310e563adde.js",
@@ -77,9 +77,9 @@
     "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icons/icon-96x96.png": "39aa8c0d6ac6e58fa2ea92e84d6a96fc203da41e",
     "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/loading/loading-11.gif": "26f4715a8b4fdff6e46d13ec12b1022ad257ea3e",
     "https://EduardoAlfredoGallegos.github.io/Learning-Together/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://EduardoAlfredoGallegos.github.io/Learning-Together/firebase-messaging-sw.js": "f3870e5e581296f145aa29c3eb50fdefbeb0f6ac",
-    "https://EduardoAlfredoGallegos.github.io/Learning-Together/index.html": "7eb6c6c76a28297bfafa73b8ae33d9fbd92b6cb7",
-    "https://EduardoAlfredoGallegos.github.io/Learning-Together/main.57997313d4d6ccef.js": "8e6dea7e7459e984fb23f04c0d0d1345a8d0c232",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/firebase-messaging-sw.js": "cd69eaf2ac8e177e862ad835885aac055a096be3",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/index.html": "4ce558002eb4d5e9dd8e021a57079e3021d94fe2",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/main.7a411e0f1ab865c2.js": "5bf8e93183865f0aeccdc029f79b8710d6d5641e",
     "https://EduardoAlfredoGallegos.github.io/Learning-Together/manifest.webmanifest": "b3a814d4ab6d4bd0e203adb9d5e070f1c4a0321c",
     "https://EduardoAlfredoGallegos.github.io/Learning-Together/polyfills.bbae2c26cf57ddf8.js": "fce8efea7ce84938ed29a1dce5a05a394162b8fe",
     "https://EduardoAlfredoGallegos.github.io/Learning-Together/runtime.2c715310e563adde.js": "eb72a82031dc21076a4e7a881f1a899c9f8c1df5",
