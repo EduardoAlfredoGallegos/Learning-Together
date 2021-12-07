@@ -25,6 +25,8 @@ export class AppComponent implements OnInit {
     this.tokenColection=db.collection<Token>('tokens');
   }
 
+
+
   ngOnInit(): void {
     this.requestPermission();
     this.listenNotifications();

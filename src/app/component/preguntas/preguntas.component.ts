@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
-import { NgxSpinnerService } from 'ngx-spinner';
 import { preguntitas } from 'src/app/interfaces/preguntitas.interface';
 import { PreguntasService } from 'src/app/services/preguntas.service';
 
@@ -31,8 +30,7 @@ export class PreguntasComponent implements OnInit {
 
   constructor(
     private ps: PreguntasService,
-    private ar: ActivatedRoute,
-    private spin: NgxSpinnerService
+    private ar: ActivatedRoute
   ) {
     this.topicid = this.ar.snapshot.params['topic'];
     this.dificultadid = this.ar.snapshot.params['dificultad'];
