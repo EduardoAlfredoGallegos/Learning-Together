@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1638838502156,
+  "timestamp": 1638839168204,
   "index": "https://EduardoAlfredoGallegos.github.io/Learning-Together/index.html",
   "assetGroups": [
     {
@@ -77,7 +77,7 @@
     "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/icons/icon-96x96.png": "28a568e1a9ca609350a6a67373b47c2fe9334062",
     "https://EduardoAlfredoGallegos.github.io/Learning-Together/assets/loading/loading-11.gif": "26f4715a8b4fdff6e46d13ec12b1022ad257ea3e",
     "https://EduardoAlfredoGallegos.github.io/Learning-Together/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "https://EduardoAlfredoGallegos.github.io/Learning-Together/firebase-messaging-sw.js": "09d8478a624827b060616f0b9ebc62faeac82f59",
+    "https://EduardoAlfredoGallegos.github.io/Learning-Together/firebase-messaging-sw.js": "cd69eaf2ac8e177e862ad835885aac055a096be3",
     "https://EduardoAlfredoGallegos.github.io/Learning-Together/index.html": "aface73fb8f8c8120996d86ece5f62e462f4006d",
     "https://EduardoAlfredoGallegos.github.io/Learning-Together/main.512cc3b8612c9f17.js": "8e6dea7e7459e984fb23f04c0d0d1345a8d0c232",
     "https://EduardoAlfredoGallegos.github.io/Learning-Together/manifest.webmanifest": "00ae77741f2c739d749f1df47a9a36f53101a996",
